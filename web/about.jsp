@@ -45,10 +45,10 @@
                     </div>
                     <!-- Right Column (Image Gallery) -->
                     <div class="grid grid-cols-2 gap-4">
-                        <img src="https://via.placeholder.com/300" alt="About Image 1" class="rounded-lg shadow-md hover:shadow-lg">
-                        <img src="https://via.placeholder.com/300" alt="About Image 2" class="rounded-lg shadow-md hover:shadow-lg">
-                        <img src="https://via.placeholder.com/300" alt="About Image 3" class="rounded-lg shadow-md hover:shadow-lg">
-                        <img src="https://via.placeholder.com/300" alt="About Image 4" class="rounded-lg shadow-md hover:shadow-lg">
+                        <img src="https://cdn.pixabay.com/photo/2022/01/07/09/51/architecture-6921523_960_720.jpg" alt="About Image 1" class="rounded-lg shadow-md hover:shadow-lg">
+                        <img src="https://cdn.pixabay.com/photo/2018/07/13/23/03/planning-3536753_1280.jpg" alt="About Image 2" class="rounded-lg shadow-md hover:shadow-lg">
+                        <img src="https://cdn.pixabay.com/photo/2015/12/03/15/07/construction-1075093_960_720.jpg" alt="About Image 3" class="rounded-lg shadow-md hover:shadow-lg">
+                        <img src="https://cdn.pixabay.com/photo/2021/07/29/05/31/handshake-6506332_1280.jpg" alt="About Image 4" class="rounded-lg shadow-md hover:shadow-lg">
                     </div>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                     <!-- Team Member -->
                     <div class="text-center">
                         <img src="https://via.placeholder.com/200" alt="Team Member 4" class="rounded-full w-32 h-32 mx-auto mb-4">
-                        <h4 class="text-xl font-semibold text-gray-800">Tharushi</h4>
+                        <h4 class="text-xl font-semibold text-gray-800">Dulani Hemachandra</h4>
                         <p class="text-gray-600">Operations Manager</p>
                     </div>
                 </div>
